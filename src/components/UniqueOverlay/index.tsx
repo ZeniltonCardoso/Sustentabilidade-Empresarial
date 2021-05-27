@@ -20,14 +20,18 @@ const UniqueOverlay: React.FC = () => {
       <Footer style={{ opacity }}>
         <ul>
           <li>
+            <a href="#">Antônio Cesar Fachini</a>
+          </li>
+          <li>
+            <a href="#">Filipi Hermínio Nunes</a>
+          </li>
+          <li>
+            <a href="#">Matheus Francisco Frutuoso</a>
+          </li>
+          <li>
             <a href="#">Zenilton Cordeiro Cardoso 👾</a>
           </li>
-          <li>
-            <a href="#">Filipe</a>
-          </li>
-          <li>
-            <a href="#">Antonio</a>
-          </li>
+
         </ul>
       </Footer>
     </Container>

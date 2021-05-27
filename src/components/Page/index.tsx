@@ -27,15 +27,15 @@ const Page: React.FC = () => {
               overlayNode={
                 <DefaultOverlayContent
                   label={modelName}
-                  description="Teste"
+                  description="Planeta plutão"
                 />
+
               }
             />
           ))}
         </div>
 
         <Spacer />
-
         <UniqueOverlay />
       </ModelsWrapper>
     </Container>
