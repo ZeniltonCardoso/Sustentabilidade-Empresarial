@@ -28,16 +28,21 @@ const Page: React.FC = () => {
               ''
             },
             { 
-              'title': 'Empresas sustentáveis em Brusque', 
-              'description': 'O setor textil têm, por padrão, hábitos de consumo exagerado e desnecessário. O termo fast fashion diz respeito exatamente'+
-              'a essa questão. Por volta de cada seis meses todo o cenário muda e toneladas de roupas são descartadas por deixarem de ser tendência, algumas'+
-              'empresas do ramo se preocupam com o problema ambiental gerado pela produção excessiva dos tecidos usados nas vestimentas e fazem uso de '+
-              'alternativas mais sustentáveis. Em Brusque já existem lojas de roupas especializadas em produtos totalmente verdes, que fazem uso de material ' +
-              'reciclado na sua composição. Abaixo estão listadas algumas destas marcas, que são total ou parcialmente sustentáveis.' 
+              'title': 'Tipos de Selos Verdes', 
+              'description': 'Tipo I: Fornecidos por instituições terceiras, este selo é regulamentado pela NBR ISSO 14024 a qual estabelece critérios para avaliar ' +  
+              'e demonstrar a sua conformidade sendo a norma que estabelece os procedimentos de certificação do rótulo ambiental. Tipo II: Esses selos são de autoria ' + 
+              'do próprio fabricante do produto e são usados para divulgar os benefícios ambientais que o produto entrega, sendo regulamentado pela NBR ISO 14021 ' + 
+              'que estabelece critérios e métodos de avaliação para sustentar as declarações informadas nos selos. Tipo III: Este selo necessita a ACV (Avaliação do' + 
+              'ciclo de vida) como requisito para os selo, sendo assim um programa voluntário como intuito de fornecer dados baseados em critérios estabelecidos por ' + 
+              'terceiros.' 
             },
             { 
-              'title': 'Atividades sobre educação ambiental', 
-              'description': 'teste5' 
+              'title': 'Empresas sustentáveis em Brusque', 
+              'description': 'O setor textil têm, por padrão, hábitos de consumo exagerado e desnecessário. O termo fast fashion diz respeito exatamente '+
+              'a essa questão, praticamente a cada seis meses todo o cenário muda e toneladas de roupas são descartadas por deixarem de ser tendência. Algumas '+
+              'empresas do ramo se preocupam com o problema ambiental gerado pela produção excessiva dos tecidos usados nas vestimentas e fazem uso de '+
+              'alternativas mais sustentáveis. Em Brusque, empresas como a GS One e a Beach & Country, já oferecem alguns produtos totalmente verdes, que fazem uso de material ' +
+              'reciclado na sua composição. ' 
             },
             { 
               'title': 'Coleta Seletiva', 
