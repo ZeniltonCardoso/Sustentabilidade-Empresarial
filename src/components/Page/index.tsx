@@ -43,14 +43,6 @@ const Page: React.FC = () => {
               'empresas do ramo se preocupam com o problema ambiental gerado pela produção excessiva dos tecidos usados nas vestimentas e fazem uso de '+
               'alternativas mais sustentáveis. Em Brusque, empresas como a GS One e a Beach & Country, já oferecem alguns produtos totalmente verdes, que fazem uso de material ' +
               'reciclado na sua composição. ' 
-            },
-            { 
-              'title': 'Coleta Seletiva', 
-              'description': 'teste6' 
-            },
-            { 
-              'title': 'Importância da Coleta Seletiva', 
-              'description': 'teste7' 
             }
           ].map(modelName => (
             <ModelSection

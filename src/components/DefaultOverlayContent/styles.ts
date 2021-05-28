@@ -27,6 +27,7 @@ export const Heading = styled.div`
     margin-right: 60px;
     text-align: justify;
     border: black;
+    opacity: 100%;
     line-height: 1.5;
     font-size: 25px;
     color: #1C1C1C;

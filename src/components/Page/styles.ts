@@ -4,11 +4,11 @@ import styled from 'styled-components'
 export const Container = styled.div`
   .colored:nth-child(1) {
     background-size: cover;
-    background-image: url(https://cdn.assinebem.com.br/media/noticias/2020/05/07/28/os-desafios-e-vantagens-da-sustentabilidade-empresarial_1170x700.jpg);
+    background-image: url(https://lh3.googleusercontent.com/proxy/Il3R6MJFw_LaQ2_FpaqDaQWvThb6Tx-qCi7KcjPeCPoA1LR1xzBzghdQkYGYkz174rNMlAtE7hdQJA9AiuHYWNgBQFpPtktTCcFBQYolpIFVxU4wErPdZGGkRVE3cr1eYm1EbjQVzcj8iv8Z8bOzyYzuX5uu5zHJwg);
   }
   .colored:nth-child(2) {
     background-size: cover;
-    background-image: url(https://yetspace.com/wp-content/uploads/2019/12/faturacao-eletronica-sustentabilidade-ambiental.jpg);
+    background-image: url(https://epema.com.br/images/epema/bg-bottom-meio-ambiente-epema.jpg);
   }
   .colored:nth-child(3) {
     background-size: cover;
@@ -20,14 +20,7 @@ export const Container = styled.div`
   }
   .colored:nth-child(5) {
     background-size: cover;
-    background-image: url(https://cdn.shopify.com/s/files/1/0063/1416/4322/files/enviromentally-friendly-eco-innovation_1600x.jpg?v=1602103192);
-  .colored:nth-child(6) {
-    background-size: cover;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMs4PgQ25GOzxFbizYu6-Z4lH_PTcxqI22g&usqp=CAU);
-  }
-  .colored:nth-child(7) {
-    background-size: cover;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMs4PgQ25GOzxFbizYu6-Z4lH_PTcxqI22g&usqp=CAU);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAW2pqGJXfEvgS3wlSVg3w24oZ2vI23sedvw&usqp=CAU);
   }
 `
 
