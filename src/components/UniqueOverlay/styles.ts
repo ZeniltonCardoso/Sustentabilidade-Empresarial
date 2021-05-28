@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { LogoSVG, BurgerSVG } from './IconSVG'
+import { LogoSVG } from './IconSVG'
 import { motion } from 'framer-motion'
 
 export const Container = styled.div`
@@ -25,16 +25,8 @@ export const Header = styled.header`
 `
 
 export const Logo = styled(LogoSVG)`
-  height: 17px;
+  height: 40px;
   cursor: pointer;
-`
-
-export const Burger = styled(BurgerSVG)`
-  width: 24px;
-  height: 24px;
-  cursor: pointer;
-
-  padding-right: 5px;
 `
 
 export const Footer = styled(motion.footer)`

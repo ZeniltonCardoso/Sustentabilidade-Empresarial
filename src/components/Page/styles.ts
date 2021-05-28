@@ -1,14 +1,15 @@
 import styled from 'styled-components'
 
+
 export const Container = styled.div`
   .colored:nth-child(1) {
     background-image: #f1ffe7;
   }
   .colored:nth-child(2) {
-    background: #dfffd9;
+    background: black;
   }
   .colored:nth-child(3) {
-    background: #cdfeca;
+    background: red;
   }
   .colored:nth-child(4) {
     background: #bbfebb;

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Container, Heading, Buttons } from './styles'
+import { Container, Heading } from './styles'
 
 interface Props {
   label: string
