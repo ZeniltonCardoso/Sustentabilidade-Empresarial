@@ -17,17 +17,18 @@ export const Heading = styled.div`
     font-weight: 500;
     font-size: 40px;
     line-height: 48px;
-    color: #393c41;
+    font-weight: bold;
+    color: #000000;
   }
   > h2 {
     margin-top: 10vh;
-    font-weight: normal;
-    margin-left: 50px;
-    margin-right: 50px;
-    text-align: justify;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    border: black;
     line-height: 20px;
-    font-size: 20px;
-
-    color: #5c5e62;
+    font-size: 25px;
+    color: #1C1C1C;
   }
 `
