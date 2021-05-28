@@ -8,7 +8,7 @@ export const Container = styled.div`
 `
 
 export const Heading = styled.div`
-  margin-top: 16.5vh;
+  margin-top: 10.5vh;
 
   width: 100%;
   text-align: center;
@@ -25,9 +25,9 @@ export const Heading = styled.div`
     font-weight: bold;
     margin-left: 60px;
     margin-right: 60px;
-    text-align: center;
+    text-align: justify;
     border: black;
-    line-height: 20px;
+    line-height: 1.5;
     font-size: 25px;
     color: #1C1C1C;
   }
