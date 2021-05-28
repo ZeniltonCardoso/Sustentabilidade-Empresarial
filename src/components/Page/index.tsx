@@ -21,8 +21,10 @@ const Page: React.FC = () => {
               'description': 'No âmbito empresarial, a sustentabilidade está dividida principalmente em três bases. Social, no que se refere a qualidade de vida dos colaboradores, da sociedade e de todos os indivíduos que se relacionam com a empresa; Ambiental, que trata sobre as boas praticas com o meio ambiente, como: descarte adequado de residuos, redução de consumo, melhor aproveitamento da matéria prima, melhoria e manutenção do processo fabril, entre outros; Econômico, relacionado a gestão financeira da empresa, investimento em projetos ligados a causa ambiental, pesquisa científica e etc.'
             },
             { 
-              'title': 'A legislação sobre educação ambiental', 
-              'description': 'teste3' 
+              'title': 'Selo verde', 
+              'description': 'Empresas que se dedicam a causa sustentável podem, inclusive, se tornarem mais lucrativas, uma vez que reduzem os gastos e atraem investimentos. Mas como saber quais empresas realmente estão seguindo as boas praticas e quais estão apenas fazendo marketing? Para isso existem as certificações, como o selo verde.'+
+              'O selo verde é um programa de rotulagem ambiental, uma garantia de que o produto em questão possuí um menor impacto ambiental em relação a outros produtos do mesmo segmento disponíveis no mercado. Visa promover a competitividade de mercado e as boas praticas ambientais.'+
+              'Um dos tipos de selo verde é aquele onde uma empresa busca uma terceira entidade para certificar que os seus métodos e de produção e os seus produtos são feitos de maneira sustentável. Outro tipo de selo verde pode ser uma autodeclaração da empresa, como a de gastar pouca energia ou praticar a reciclagem dos seus produtos.'
             },
             { 
               'title': 'A educação ambiental nas escolas', 
