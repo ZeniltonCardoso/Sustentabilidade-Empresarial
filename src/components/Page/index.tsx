@@ -28,8 +28,12 @@ const Page: React.FC = () => {
               ''
             },
             { 
-              'title': 'A educação ambiental nas escolas', 
-              'description': 'teste4' 
+              'title': 'Empresas sustentáveis em Brusque', 
+              'description': 'O setor textil têm, por padrão, hábitos de consumo exagerado e desnecessário. O termo fast fashion diz respeito exatamente'+
+              'a essa questão. Por volta de cada seis meses todo o cenário muda e toneladas de roupas são descartadas por deixarem de ser tendência, algumas'+
+              'empresas do ramo se preocupam com o problema ambiental gerado pela produção excessiva dos tecidos usados nas vestimentas e fazem uso de '+
+              'alternativas mais sustentáveis. Em Brusque já existem lojas de roupas especializadas em produtos totalmente verdes, que fazem uso de material ' +
+              'reciclado na sua composição. Abaixo estão listadas algumas destas marcas, que são total ou parcialmente sustentáveis.' 
             },
             { 
               'title': 'Atividades sobre educação ambiental', 
