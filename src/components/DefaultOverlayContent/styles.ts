@@ -20,9 +20,14 @@ export const Heading = styled.div`
     color: #393c41;
   }
   > h2 {
+    margin-top: 10vh;
     font-weight: normal;
-    font-size: 14px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
     line-height: 20px;
+    font-size: 20px;
+
     color: #5c5e62;
   }
 `
